@@ -1,0 +1,6 @@
+{
+  "name": "FlowState",
+  "description": "Intelligent Task & Productivity Management Platform featuring Smart Next Action, Dependency Mapping, Focus Mode, and Real-Time Workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
